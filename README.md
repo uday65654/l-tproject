@@ -20,3 +20,5 @@ Screen recorder (OBS Studio, or built-in Windows recorder for demo video)
 2 or more PCs (end devices)
 1 Switch (8-port)
 LAN cables (Copper straight-through)
+
+
